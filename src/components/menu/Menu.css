@@ -1,0 +1,21 @@
+.Menu p {
+    text-align: right;
+}
+.Menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+.Menu ul li {
+    display: inline;
+    color: blue;
+}
+.Menu ul li a:hover {
+    cursor: pointer;
+}
+.Menu ul li a:link 
+{ 
+    text-decoration:none;
+    color: blue;
+} 
